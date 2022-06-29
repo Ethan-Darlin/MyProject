@@ -4,7 +4,7 @@ import java.io.IOException;
 
 public class HelloAutocode {
     public static void main(String[] args) {
-        System.out.println("Hello,Autocod!");
+        System.out.println("Hello,Autocode!");
     }
 }
 
